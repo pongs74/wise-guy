@@ -1,0 +1,7 @@
+[submodule "wiseguy/themes/hugo-theme-shell"]
+	path = wiseguy/themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "wiseguy/public"]
+	path = wiseguy/public
+	url = https://github.com/pongs74/wise-guy.github.com.git
+	branch = main

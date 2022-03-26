@@ -1,0 +1,5 @@
+baseURL = 'https://wise-guy.github.com/'
+languageCode = 'en-us'
+title = 'The wise guy webpage'
+
+theme="hugo-theme-shell"
